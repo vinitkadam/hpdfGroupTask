@@ -2,6 +2,8 @@
 
 This is a react-native app for the alexa IPL skill. 
 
+![alt text](http://vinit.ga/photos/1.1.png)	![alt text](http://vinit.ga/photos/1.1.png)
+
 Steps to set up development environment
 
 	-- Follow the steps as mentioned in "Getting Started" section of react-native website in the "Build with native code" tab
